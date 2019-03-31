@@ -1,6 +1,6 @@
 # mp-req
 
-mp-req是`wx.request`的高级封装，用于发起ajax请求以及文件上传。
+mp-req是`wx.request`的高级封装，用于发起ajax请求。
 
 `wx.request`是一个底层api，使用的不便之处在于：
 
