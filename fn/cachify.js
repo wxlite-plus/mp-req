@@ -21,7 +21,7 @@ function cachifyPlugin(req) {
           }
           const str = JSON.stringify(r1);
           cacheObj[apiName][id] = str;
-          res(JSON.parse(r1));
+          res(JSON.parse(str));
         })
         .catch((err) => {
           rej(err);
