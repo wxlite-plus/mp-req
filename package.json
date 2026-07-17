@@ -1,0 +1,23 @@
+{
+  "name": "mp-req",
+  "version": "1.0.0",
+  "description": "A tool for sending network requests in WeChat Mini Program projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxlite-plus/mp-req.git"
+  },
+  "keywords": [
+    "miniprogram",
+    "request"
+  ],
+  "author": "Jack Lo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wxlite-plus/mp-req/issues"
+  },
+  "homepage": "https://github.com/wxlite-plus/mp-req#readme"
+}
